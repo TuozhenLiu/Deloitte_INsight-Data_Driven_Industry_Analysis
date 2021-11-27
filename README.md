@@ -3,7 +3,7 @@
 <img src="./images/Web-side System/logo.png" align="Right" alt="Size Limit logo by Anton Lovchikov" width="209.024" height="80.96">
 
 Hi there! My name is Tuozhen Liu. This repository is forked from my partner[Jace Yang](https://github.com/Jace-Yang/Deloitte_INsight-Data_Driven_Industry_Analysis). 
-I am one of the core contributor of the Deloitte INsight, an upcoming financial data product that aims to accelerate data-driven industry analysis, especially analysis deep down the subdivision markets.
+We are the core contributors of the Deloitte INsight, an upcoming financial data product that aims to accelerate data-driven industry analysis, especially analysis deep down the subdivision markets.
 
 > This repository is to show my work but mainly through pictures and words. Although I am not allowed to share the code/source files in public, it may be a way to share them to you by, e.g., sharing some of my preliminary trial.
 
