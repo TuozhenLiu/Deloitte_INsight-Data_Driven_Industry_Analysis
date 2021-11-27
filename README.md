@@ -2,10 +2,10 @@
 
 <img src="./images/Web-side System/logo.png" align="Right" alt="Size Limit logo by Anton Lovchikov" width="209.024" height="80.96">
 
-Hi there! My name is Jace Yang. 
+Hi there! My name is Tuozhen Liu. This repository is forked from my partner[Jace Yang](https://github.com/Jace-Yang/Deloitte_INsight-Data_Driven_Industry_Analysis). 
 I am one of the core contributor of the Deloitte INsight, an upcoming financial data product that aims to accelerate data-driven industry analysis, especially analysis deep down the subdivision markets.
 
-> This repository is to show my work but mainly through pictures and words. Although I am not allowed to share the code/source files in public, it may be a way to share them to you by, e.g., sharing some of my preliminary trial. Please email me at yjh.jace@gmail.com if you are interested and want more information.
+> This repository is to show my work but mainly through pictures and words. Although I am not allowed to share the code/source files in public, it may be a way to share them to you by, e.g., sharing some of my preliminary trial.
 
 # Project Website 项目信息
 
@@ -34,7 +34,7 @@ My major contributions here:
 I wrote a SQL-style data processing rundown in R via 100+ tailored function based on dplyr and over 10k+ lines of code. It then helped the team to streamline the workflow and improve the efficiency remarkably.
 
 
-- The whole dataflow:
+- The whole dataflow:
     > ![](./images/Data-Pipeline/Data_Structure.svg)
     
     - Data cleaning details for 1 datatable as an example, which located **170,000** subsidiary companies' address and industry positioning.
@@ -51,7 +51,7 @@ As our team develop a 4-level market segmentation system. My algorithm is to map
 The way I built the model:
 
 
-![](./images/Business-industry-Mapping/NLP_design.svg)
+![](./images/Business-Industry-Mapping/NLP_design.svg)
 
 
 ## Data Dashboard
